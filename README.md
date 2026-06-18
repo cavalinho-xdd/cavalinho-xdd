@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [github.com/cavalinho-xdd](github.com/cavalinho-xdd)
 
-- 📫 How to reach me **jakub.muzik@mendelova-stredni.cz**
+- 📫 How to reach me: **jakub.muzik@mendelova-stredni.cz**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
