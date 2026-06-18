@@ -20,5 +20,3 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://ko-fi.com/cavalinhoxdd"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="cavalinhoxdd" /></a></p><br><br>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=cavalinho-xdd&show_icons=true&theme=dracula&title_color=9141ac&text_color=dc8add&bg_color=0a0545&hide_border=true&locale=en&layout=compact" alt="cavalinho-xdd" /></p>
-
