@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm cavalinho-xdd</h1>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cavalinho-xdd" alt="cavalinho-xdd" /></a> </p>
 
-- Hi, I'm cavalinho-xdd, the creator of [Aurora](stayaurora.dev)
+- Hi, I'm cavalinho-xdd, the creator of [Aurora](aurora)
 
 - 🌱 I’m currently learning **React, JS/TS and Electron**
 
